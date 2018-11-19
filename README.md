@@ -4,8 +4,8 @@ Skeleton-based action recognition task is entangled with complex spatio-temporal
 
 
 
-We provide a demo for MANs on NTU RGB+D dataset based on Keras.
-NTU RGB+D dataset: http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp
+We provide a demo for MANs on [NTU RGB+D dataset](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp) based on Keras.
+
 
 ## Install
 To run this demo, you should install these dependencies:
@@ -20,14 +20,14 @@ The experimental results of the comparison algorithm are directly quoted from th
 
 ## Citation
 if you find MANs useful in your research, please consider citing:
-@inproceedings{Xie2018Memory,
-  title={Memory Attention Networks for Skeleton-based Action Recognition},
-  author={Xie, Chunyu and Li, Ce and Zhang, Baochang and Chen, Chen and Han, Jungong and Zou, Changqing and Liu, Jianzhuang},
-  booktitle={International Joint Conference on Artificial Intelligence},
-  pages={1639--1645},
-  year={2018},
-}
+        @inproceedings{Xie2018Memory,
+        title={Memory Attention Networks for Skeleton-based Action Recognition},
+        author={Xie, Chunyu and Li, Ce and Zhang, Baochang and Chen, Chen and Han, Jungong and Zou, Changqing and Liu, Jianzhuang},
+        booktitle={International Joint Conference on Artificial Intelligence},
+        pages={1639--1645},
+        year={2018},
+        }
 
-the paper link: [Memory Attention Networks for Skeleton-based Action Recognition](shttps://www.researchgate.net/publication/324717512_Memory_Attention_Networks_for_Skeleton-based_Action_Recognition)<br />
+the paper link: [Memory Attention Networks for Skeleton-based Action Recognition](https://www.researchgate.net/publication/324717512_Memory_Attention_Networks_for_Skeleton-based_Action_Recognition)
 
 
