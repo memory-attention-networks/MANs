@@ -35,6 +35,5 @@ The paper link: [Memory Attention Networks for Skeleton-based Action Recognition
 ## Contact
 
 yuxie@buaa.edu.cn
-
 Any discussions, suggestions and questions are welcome!
 
