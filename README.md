@@ -1,5 +1,5 @@
 # Memory Attention Networks (MANs)
-Skeleton-based action recognition task is entangled with complex spatio-temporal variations of skele- ton joints, 
+Skeleton-based action recognition task is entangled with complex spatio-temporal variations of skeleton joints, 
 and remains challenging for Recurrent Neural Networks (RNNs). In this work, we propose a temporal-then-spatial
 recalibration scheme to alleviate such complex variations, resulting in an end-to-end Memory Attention Networks (MANs) 
 which consist of a Temporal Attention Recalibration Module (TARM) and a Spatio-Temporal Convolution Module (STCM). 
