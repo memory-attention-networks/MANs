@@ -2,7 +2,7 @@
 
 Skeleton-based action recognition task is entangled with complex spatio-temporal variations of skeleton joints, and remains challenging for Recurrent Neural Networks (RNNs). In this work, we propose a temporal-then-spatial recalibration scheme to alleviate such complex variations, resulting in an end-to-end Memory Attention Networks (MANs) which consist of a Temporal Attention Recalibration Module (TARM) and a Spatio-Temporal Convolution Module (STCM). Specifically, the TARM is deployed in a residual learning module that employs a novel attention learning network to recalibrate the temporal attention of frames in a skeleton sequence. The STCM treats the attention calibrated skeleton joint sequences as images and leverages the Convolution Neural Networks (CNNs) to further model the spatialand temporal information of skeleton data. These two modules (TARM and STCM) seamlessly form a single network architecture that can be trained in an end-to-end fashion. MANs significantly boost the performance of skeleton-based action recognition and achieve the best results on four challenging benchmark datasets: NTU RGB+D, HDM05, SYSU-3D and UT-Kinect.
 
-![](https://github.com/memory-attention-networks/MANs/image/architecture.pdf)
+![](https://github.com/memory-attention-networks/MANs/tree/master/image/architecture-gray.pdf)
 
 We provide a demo for MANs on [NTU RGB+D dataset](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp) based on Keras.
 
