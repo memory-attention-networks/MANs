@@ -1,14 +1,6 @@
 # Memory Attention Networks (MANs)
-Skeleton-based action recognition task is entangled with complex spatio-temporal variations of skeleton joints, 
-and remains challenging for Recurrent Neural Networks (RNNs). In this work, we propose a temporal-then-spatial
-recalibration scheme to alleviate such complex variations, resulting in an end-to-end Memory Attention Networks (MANs) 
-which consist of a Temporal Attention Recalibration Module (TARM) and a Spatio-Temporal Convolution Module (STCM). 
-Specifically, the TARM is deployed in a residual learning module that employs a novel attention learning network 
-to recalibrate the temporal attention of frames in a skeleton sequence. The STCM treats the attention calibrated 
-skeleton joint sequences as images and leverages the Convolution Neural Networks (CNNs) to further model the spatial
-and temporal information of skeleton data. These two modules (TARM and STCM) seamlessly form a single network architecture 
-that can be trained in an end-to-end fashion. MANs significantly boost the performance of skeleton-based action recognition 
-and achieve the best results on four challenging benchmark datasets: NTU RGB+D, HDM05, SYSU-3D and UT-Kinect.
+
+Skeleton-based action recognition task is entangled with complex spatio-temporal variations of skeleton joints, and remains challenging for Recurrent Neural Networks (RNNs). In this work, we propose a temporal-then-spatial recalibration scheme to alleviate such complex variations, resulting in an end-to-end Memory Attention Networks (MANs) which consist of a Temporal Attention Recalibration Module (TARM) and a Spatio-Temporal Convolution Module (STCM). Specifically, the TARM is deployed in a residual learning module that employs a novel attention learning network to recalibrate the temporal attention of frames in a skeleton sequence. The STCM treats the attention calibrated skeleton joint sequences as images and leverages the Convolution Neural Networks (CNNs) to further model the spatialand temporal information of skeleton data. These two modules (TARM and STCM) seamlessly form a single network architecture that can be trained in an end-to-end fashion. MANs significantly boost the performance of skeleton-based action recognition and achieve the best results on four challenging benchmark datasets: NTU RGB+D, HDM05, SYSU-3D and UT-Kinect.
 
 
 
@@ -26,9 +18,9 @@ To run this demo, you should install these dependencies:
 
 The experimental results of the comparison algorithm are directly quoted from the corresponding papers.
 
-##Citation
+## Citation
 if you find MANs useful in your research, please consider citing:
-    @inproceedings{Xie2018Memory,
+@inproceedings{Xie2018Memory,
   title={Memory Attention Networks for Skeleton-based Action Recognition},
   author={Xie, Chunyu and Li, Ce and Zhang, Baochang and Chen, Chen and Han, Jungong and Zou, Changqing and Liu, Jianzhuang},
   booktitle={International Joint Conference on Artificial Intelligence},
@@ -36,6 +28,6 @@ if you find MANs useful in your research, please consider citing:
   year={2018},
 }
 
-the paper link: https://www.researchgate.net/publication/324717512_Memory_Attention_Networks_for_Skeleton-based_Action_Recognition
+the paper link: [Memory Attention Networks for Skeleton-based Action Recognition](shttps://www.researchgate.net/publication/324717512_Memory_Attention_Networks_for_Skeleton-based_Action_Recognition)<br />
 
 
