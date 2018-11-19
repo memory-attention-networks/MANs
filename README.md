@@ -17,8 +17,8 @@ NTU RGB+D dataset: http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp
 
 ## Install
 To run this demo, you should install these dependencies:
-Keras 2.0.8
-tensorflow 1.3.0
+    Keras 2.0.8
+    tensorflow 1.3.0
 
 ## Run demo 
     python process_data.py
@@ -28,7 +28,7 @@ The experimental results of the comparison algorithm are directly quoted from th
 
 ##Citation
 if you find MANs useful in your research, please consider citing:
-@inproceedings{Xie2018Memory,
+    @inproceedings{Xie2018Memory,
   title={Memory Attention Networks for Skeleton-based Action Recognition},
   author={Xie, Chunyu and Li, Ce and Zhang, Baochang and Chen, Chen and Han, Jungong and Zou, Changqing and Liu, Jianzhuang},
   booktitle={International Joint Conference on Artificial Intelligence},
