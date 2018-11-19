@@ -32,8 +32,9 @@ if you find MANs useful in your research, please consider citing:
 
 The paper link: [Memory Attention Networks for Skeleton-based Action Recognition](https://www.researchgate.net/publication/324717512_Memory_Attention_Networks_for_Skeleton-based_Action_Recognition)
 
-##Contact
+## Contact
 
 yuxie@buaa.edu.cn
+
 Any discussions, suggestions and questions are welcome!
 
